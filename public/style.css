@@ -1,0 +1,23 @@
+body {
+  background: url(http://www.billnye.com/press/BN_portraits_highres/Bill-Nye_globe.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+}
+div {
+  background: rgba(35, 35, 35, 0.8);
+  border-radius: 5px;
+  width: 80%;
+  margin: 0 auto;
+  position: relative;
+  top: 200px;
+  box-shadow: inset 0px 0px 2px white;
+  text-shadow: -1px -1px 2px white;
+  color: tomato;
+  font-family: 'Freckle Face', cursive;
+  font-size: 50px;
+  text-align: center;
+}
+h1 {
+  font-size: 75px;
+}

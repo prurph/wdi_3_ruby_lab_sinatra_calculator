@@ -1,0 +1,15 @@
+# Logfile created on 2014-01-24 10:42:54 -0500 by logger.rb/44203
+I, [2014-01-24T10:42:54.371952 #47334]  INFO -- : 0:  backports (3.4.0) from /Users/Prescott/.rvm/gems/ruby-2.1.0/specifications/backports-3.4.0.gemspec
+I, [2014-01-24T10:42:54.372278 #47334]  INFO -- : 0:  coderay (1.1.0) from /Users/Prescott/.rvm/gems/ruby-2.1.0/specifications/coderay-1.1.0.gemspec
+I, [2014-01-24T10:42:54.372524 #47334]  INFO -- : 0:  method_source (0.8.2) from /Users/Prescott/.rvm/gems/ruby-2.1.0/specifications/method_source-0.8.2.gemspec
+I, [2014-01-24T10:42:54.372754 #47334]  INFO -- : 0:  multi_json (1.8.4) from /Users/Prescott/.rvm/gems/ruby-2.1.0/specifications/multi_json-1.8.4.gemspec
+I, [2014-01-24T10:42:54.372993 #47334]  INFO -- : 0:  slop (3.4.7) from /Users/Prescott/.rvm/gems/ruby-2.1.0/specifications/slop-3.4.7.gemspec
+I, [2014-01-24T10:42:54.373238 #47334]  INFO -- : 0:  pry (0.9.12.4) from /Users/Prescott/.rvm/gems/ruby-2.1.0/specifications/pry-0.9.12.4.gemspec
+I, [2014-01-24T10:42:54.373454 #47334]  INFO -- : 0:  rack (1.5.2) from /Users/Prescott/.rvm/gems/ruby-2.1.0/specifications/rack-1.5.2.gemspec
+I, [2014-01-24T10:42:55.177896 #47334]  INFO -- : 0:  rack-protection (1.5.2) from /Users/Prescott/.rvm/gems/ruby-2.1.0/specifications/rack-protection-1.5.2.gemspec
+I, [2014-01-24T10:42:55.178249 #47334]  INFO -- : 0:  rack-test (0.6.2) from /Users/Prescott/.rvm/gems/ruby-2.1.0/specifications/rack-test-0.6.2.gemspec
+I, [2014-01-24T10:42:55.178516 #47334]  INFO -- : 0:  tilt (1.4.1) from /Users/Prescott/.rvm/gems/ruby-2.1.0/specifications/tilt-1.4.1.gemspec
+I, [2014-01-24T10:42:56.695547 #47334]  INFO -- : 0:  sinatra (1.4.4) from /Users/Prescott/.rvm/gems/ruby-2.1.0/specifications/sinatra-1.4.4.gemspec
+I, [2014-01-24T10:42:57.621062 #47334]  INFO -- : 0:  sinatra-contrib (1.4.2) from /Users/Prescott/.rvm/gems/ruby-2.1.0/specifications/sinatra-contrib-1.4.2.gemspec
+I, [2014-01-24T10:42:58.131361 #47334]  INFO -- : 0:  sinatra-reloader (1.0) from /Users/Prescott/.rvm/gems/ruby-2.1.0/specifications/sinatra-reloader-1.0.gemspec
+I, [2014-01-24T10:42:58.131725 #47334]  INFO -- : 0:  bundler (1.5.1) from /Users/Prescott/.rvm/gems/ruby-2.1.0@global/specifications/bundler-1.5.1.gemspec

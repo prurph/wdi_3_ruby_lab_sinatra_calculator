@@ -1,0 +1,5 @@
+<p>You rolled a <%= @sides %>-sided object. Result: <%= @result %></p>
+
+<% if @sides.to_i >= 12 %>
+  <h1>So many sides</h1>
+<% end %>
